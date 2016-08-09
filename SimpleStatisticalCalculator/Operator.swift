@@ -8,9 +8,6 @@
 
 import Foundation
 
-
-
-
 class Operator {
     
     enum Operators {
